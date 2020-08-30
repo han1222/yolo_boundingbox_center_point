@@ -13,8 +13,7 @@
                 free_image(label);
             }
 
-# Point.py
-you must download OpenCV to excute a Potin.py files
+#you must download OpenCV to excute a Potin.py files
 
 import cv2
 
